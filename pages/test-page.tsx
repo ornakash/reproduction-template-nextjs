@@ -1,5 +1,5 @@
 /** Add your relevant code here for the issue to reproduce */
-export default function Home() {
+export default function Test() {
   console.log("App re-renders");
   return null;
 }
